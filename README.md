@@ -1,2 +1,2 @@
 # VerteHeart
-Scripts used to analyze evolution of vertebrate heart at single-cell resolution.
+Scripts used to analyze evolution of vertebrate heart at the single-cell resolution.
